@@ -1,7 +1,7 @@
 # port-scanner
-# Ana G. (Anagfcl)
+# Ana G. (AnaCodes13)
 
-**Licenciatura em Ciência da Computação • Cibersegurança • Desenvolvimento Web**
+**Licenciatura em Ciência da Computação • Cibersegurança**
 
 Breve, direto e profissional. Aqui está o que faço, o que sei e como rodar meus projetos.
 
@@ -39,7 +39,7 @@ Sou estudante de **Licenciatura em Ciência da Computação**, com grande intere
 
 ```bash
 # clonar
-git clone https://github.com/Anagfcl/nome-do-projeto.git
+git clone https://github.com/AnaCode13/nome-do-projeto.git
 cd nome-do-projeto
 # instalar dependências
 npm install
